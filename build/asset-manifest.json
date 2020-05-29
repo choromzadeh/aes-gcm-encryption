@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f393f229.chunk.css",
+    "main.js": "/static/js/main.96bebbe3.chunk.js",
+    "main.js.map": "/static/js/main.96bebbe3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.65c23ea1.chunk.css": "/static/css/2.65c23ea1.chunk.css",
+    "static/js/2.bb5a38d8.chunk.js": "/static/js/2.bb5a38d8.chunk.js",
+    "static/js/2.bb5a38d8.chunk.js.map": "/static/js/2.bb5a38d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c16bb164bf7c1d89e731ea6d6f89858d.js": "/precache-manifest.c16bb164bf7c1d89e731ea6d6f89858d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.65c23ea1.chunk.css.map": "/static/css/2.65c23ea1.chunk.css.map",
+    "static/css/main.f393f229.chunk.css.map": "/static/css/main.f393f229.chunk.css.map",
+    "static/media/index.css": "/static/media/light-grey-terrazzo.37434414.png",
+    "static/media/IMG-personal.jpg": "/static/media/IMG-personal.c92b186c.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
