@@ -4,6 +4,7 @@
   "description": "first howework payment",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mohammad choromzadeh",
@@ -13,5 +14,8 @@
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
     "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
